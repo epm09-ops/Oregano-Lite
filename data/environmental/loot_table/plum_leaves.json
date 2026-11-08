@@ -73,5 +73,5 @@
       "rolls": 1.0
     }
   },
-  "selector": "minecraft:loot_table/blocks/cherry_leaves"
+  "selector": "environmental:loot_table/blocks/plum_leaves"
 }
