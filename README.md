@@ -5,7 +5,6 @@ its "lite" because the full version is planned to be a full mod. the mod'll be k
 credit to [team abnormals](https://www.teamabnormals.com), team galena, [silversmith mods] (https://github.com/Silversmith-Mods), [hecco](https://github.com/Heccology) , and others coming soon.\
 \
 currently:\
-\
 -puts Windswept pinecones on Environmental pines (HUGE thx to Polaris!)\
 -makes Environmental plum trees drop cherries and use vanilla Cherry wood\
 -puts bountiful fares orange trees in Atmospheric laurel forests \
