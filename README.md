@@ -3,7 +3,7 @@ sister pack of [Thyme](https://github.com/epm09-ops/Thyme). most changes corresp
 \
 its "lite" because the full version is planned to be a full mod. the mod'll be kind of reminiscent of Dolt Mod How, sort of, but it'll have more drastic feature changes, like new worldgen, items and biomes for some of the featured mods. i have no plans to break the EULA. yey socialtism! \
 \
-credit to [team abnormals](https://www.teamabnormals.com), team galena, [silversmith mods] (https://github.com/Silversmith-Mods), [hecco](https://github.com/Heccology) , and others coming soon.\
+credit to [team abnormals](https://www.teamabnormals.com), team galena, [silversmith mods](https://github.com/Silversmith-Mods), [hecco](https://github.com/Heccology) , and others coming soon.\
 \
 currently:\
 -puts Windswept pinecones on Environmental pines (HUGE thx to Polaris!)\
